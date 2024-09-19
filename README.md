@@ -1,6 +1,7 @@
 # Pomodoro Mobil Uygulaması
 
-Bu proje, React Native ve TypeScript kullanılarak geliştirilmiş bir Pomodoro mobil uygulamasının klonudur.
+Bu proje, React Native ve TypeScript kullanılarak geliştirilmiş bir Pomodoro mobil uygulamasının klonudur. 
+Şuan da tekrar geliştirme aşamasına alınmıştır.
 
 ## Kullanılan Teknolojiler
 
